@@ -1,6 +1,4 @@
-```markdown
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 
 # 🥗 Nutri App
 
@@ -39,5 +37,7 @@ O objetivo do app é calcular:
 2. Baixe o projeto
 3. Execute:
 
-```bash
-python main.py
+---
+
+## 👨‍💻 Autor
+Desenvolvido por Maycon
